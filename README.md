@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Oksana 👋
 
-<!--
-**osidorati/osidorati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer in learning way and a student software engineering.
 
-Here are some ideas to get you started:
+I'm building my career as a frontend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My latest projects
+  * [osidorati/QublyLanding](https://github.com/osidorati/QublyLanding) - landing page Qubly
+  * [osidorati/PythonDB_2.0](https://github.com/osidorati/PythonDB_2.0) - university project python database
+
+### How to reach me:
+  * Email: osidorati@gmail.com 
+  * Vk: id/osidorati [[vk]](https://vk.com/osidorati)
+  * Telegram: osidorati [[tg]](https://t.me/osidorati)
+
+*************************
+### GitHub stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osidorati)](https://github.com/osidorati/github-readme-stats)
