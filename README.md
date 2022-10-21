@@ -10,8 +10,8 @@ I'm building my career as a frontend developer
 
 ### How to reach me:
   * Email: osidorati@gmail.com 
-  * Vk: id/osidorati [[vk]](https://vk.com/osidorati)
-  * Telegram: osidorati [[tg]](https://t.me/osidorati)
+  * Vk: id/osidorati [[id/osidorati]](https://vk.com/osidorati)
+  * Telegram: osidorati [[osidorati]](https://t.me/osidorati)
 
 *************************
 ### GitHub stats
