@@ -6,7 +6,9 @@ I'm building my career as a frontend developer
 
 ### My latest projects
   * [osidorati/QublyLanding](https://github.com/osidorati/QublyLanding) - landing page Qubly
+  * [osidorati/OnlineZoo](https://github.com/osidorati/OnlineZoo) - project from rs-school [in progress]
   * [osidorati/PythonDB_2.0](https://github.com/osidorati/PythonDB_2.0) - university project python database
+  
 
 ### How to reach me:
   * Email: osidorati@gmail.com 
