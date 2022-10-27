@@ -4,6 +4,9 @@ I'm a Web Developer in learning way and a student software engineering.
 
 I'm building my career as a frontend developer
 
+### My github CV
+ * [osidorati/CV](https://osidorati.github.io/rsschool-cv/cv)
+
 ### My latest projects
   * [osidorati/QublyLanding](https://github.com/osidorati/QublyLanding) - landing page Qubly
   * [osidorati/OnlineZoo](https://github.com/osidorati/OnlineZoo) - project from rs-school [in progress]
