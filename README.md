@@ -8,6 +8,7 @@ I'm building my career as a frontend developer
  * [osidorati/CV](https://osidorati.github.io/rsschool-cv/cv)
 
 ### My latest projects
+  * [osidorati/workout_app](https://github.com/osidorati/workout_app) - workout app with Express.js and React.js
   * [osidorati/QublyLanding](https://github.com/osidorati/QublyLanding) - landing page Qubly
   * [osidorati/OnlineZoo](https://github.com/osidorati/OnlineZoo) - project from rs-school [in progress]
   * [osidorati/PythonDB_2.0](https://github.com/osidorati/PythonDB_2.0) - university project python database
