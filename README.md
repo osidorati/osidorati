@@ -1,15 +1,10 @@
 ### Hi there, I'm Oksana 👋
 
-I'm a Web Developer in learning way and a student software engineering.
-
-I'm building my career as a frontend developer
-
-### My github CV
- * [osidorati/CV](https://osidorati.github.io/rsschool-cv/cv)
-
 ### My latest projects
   * [osidorati/workout_app](https://github.com/osidorati/workout_app) - workout app with Express.js and React.js
   * [osidorati/QublyLanding](https://github.com/osidorati/QublyLanding) - landing page Qubly
+  * [osidorati/nltkBot](https://github.com/osidorati/nltkBot) - Telegram bot with natural language processing for a bookstore
+  * [osidorati/GeneticALgorithm](https://github.com/osidorati/GeneticALgorithm) - Genetic algorithm for finding he extremum of a function
   * [osidorati/OnlineZoo](https://github.com/osidorati/OnlineZoo) - project from rs-school [in progress]
   * [osidorati/PythonDB_2.0](https://github.com/osidorati/PythonDB_2.0) - university project python database
   
